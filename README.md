@@ -13,6 +13,7 @@ The extracted 4-bit value (0-15).
  
 
 **Example-1**
+
 **Input:** reg = 0xAB, pos = 0
 **Output:** 11
 (0xAB → lower nibble = 0xB = 11)
